@@ -29,6 +29,10 @@ Projenin temel amacı; donanım katmanından soyutlanmış, tekrar kullanılabil
 
 ---
 
+📚 Not
+
+Bu repository, takip ettiğim STM32 Embedded Systems eğitimindeki driver geliştirme çalışmalarını tek bir projede birleştirerek öğrenmek, uygulamak ve test etmek amacıyla oluşturulmuştur.
+
 ## 📁 Proje Klasör Yapısı
 
 ```text
